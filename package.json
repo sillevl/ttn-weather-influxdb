@@ -13,5 +13,9 @@
     "mqtt"
   ],
   "author": "Sille Van Landschoot <info@sillevl.be>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "influxdb-nodejs": "^2.1.4",
+    "mqtt": "^2.1.3"
+  }
 }
