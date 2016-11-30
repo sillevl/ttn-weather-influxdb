@@ -1,0 +1,17 @@
+{
+  "name": "teletask-influxdb",
+  "version": "0.0.1",
+  "description": "Subscribe to Teletask MQTT and post values to InfluxDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teletask",
+    "influxdb",
+    "domotics",
+    "mqtt"
+  ],
+  "author": "Sille Van Landschoot <info@sillevl.be>",
+  "license": "MIT"
+}
