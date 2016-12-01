@@ -1,0 +1,13 @@
+{
+    "influxdb": {
+        "host": "localhost",
+        "port": 8086,
+        "database": "ttn-weather"
+    },
+    "mqtt": {
+        "host": "localhost",
+        "port": 1883
+        "appeui": "",
+        "accesskey": ""
+    }
+}
