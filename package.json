@@ -1,15 +1,16 @@
 {
-  "name": "teletask-influxdb",
+  "name": "ttn-weather-influxdb",
   "version": "0.0.1",
-  "description": "Subscribe to Teletask MQTT and post values to InfluxDB",
+  "description": "Subscribe to TTN-Weather MQTT and post values to InfluxDB",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "teletask",
+    "ttn",
     "influxdb",
-    "domotics",
+    "thethingsnetwork",
+    "lorawan",
     "mqtt"
   ],
   "author": "Sille Van Landschoot <info@sillevl.be>",
